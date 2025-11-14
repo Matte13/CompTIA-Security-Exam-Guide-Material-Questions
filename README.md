@@ -6,6 +6,6 @@ Thank you for choosing this resource! This comprehensive material has been desig
 Instead, it serves to clarify and reinforce key concepts, offering a deeper understanding of the exam objectives, backed by official sources and practical advice to help you succeed on your first attempt. I aim to make these notes accessible to everyone. 
 
 If you find them helpful, your support through comments or contributions is always appreciated, it enables me to continue creating high-quality study materials. 
-Check this post like and comment with your experience or just to thank the author: linkedin.com/in/matteoschirinzi 
+Check this post, like and comment with your experience or just to thank the author: [linkedin.com/in/matteoschirinzi](https://linkedin.com/in/matteoschirinzi)
 
 Thank you for your support and good luck on your journey to earning the CompTIA Security+ certification! 
